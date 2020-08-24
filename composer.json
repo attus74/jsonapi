@@ -1,0 +1,23 @@
+{
+  "name": "attus/jsonapi",
+  "description": "JSON:API Formatter and Response",
+  "type": "library",
+  "authors": [
+    {
+      "name": "Attila Németh",
+      "email": "attilanemeth@gmx.de",
+      "role": "Developer"
+    }
+  ],
+  "keywords": [
+    "jsonapi"
+  ],
+  "homepage": "https://github.com/attus74/jsonapi",
+  "license": "GPL-3.0-or-later",
+  "autoload": {
+    "psr-4": {
+      "Attus\\JsonApi\\": "src/"
+    }
+  }
+  
+}
