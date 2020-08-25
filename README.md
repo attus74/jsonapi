@@ -2,7 +2,7 @@
 
 Simple JSON:API Serialization package
 
-```
+```php
 use Attus\JsonApi\Entity;
 use Attus\JsonApi\Response;
 
