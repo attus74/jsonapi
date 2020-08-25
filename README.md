@@ -1,3 +1,3 @@
 # JSON:API
 
-Simple JSON:API Serialization package
+Simple JSON:API Serialization package1
