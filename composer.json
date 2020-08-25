@@ -18,6 +18,9 @@
     "psr-4": {
       "Attus\\JsonApi\\": "src/"
     }
+  },
+  "require": {
+    "php": "^7.1",
+    "symfony/http-foundation": "^3.4 || ^4.0"
   }
-  
 }
