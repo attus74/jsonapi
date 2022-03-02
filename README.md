@@ -1,5 +1,7 @@
 # JSON:API
 
+[![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
+
 Simple JSON:API Serialization package
 
 ```php

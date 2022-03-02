@@ -22,5 +22,6 @@
   "require": {
     "php": "^7.1",
     "symfony/http-foundation": "^3.4 || ^4.0"
-  }
+  },
+  "abandoned": true
 }
